@@ -1,0 +1,566 @@
+# dmidecode 3.2
+Getting SMBIOS data from sysfs.
+SMBIOS 3.2.1 present.
+# SMBIOS implementations newer than version 3.2.0 are not
+# fully supported by this version of dmidecode.
+
+Handle 0x0010, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: None
+	Locator: P1-DIMMA1
+	Bank Locator: P0_Node0_Channel0_Dimm0
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2666 MT/s
+	Manufacturer: Samsung
+	Serial Number: 36AFCFE7
+	Asset Tag: P1-DIMMA1_AssetTag (Date:17/35)
+	Part Number: M393A2K40BB2-CTD    
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: 0000 
+	Module Manufacturer ID: Bank 1, Hex 0xCE
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0011, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: Unknown
+	Set: None
+	Locator: P1-DIMMA2
+	Bank Locator: NO DIMM
+	Type: Unknown
+	Type Detail: Unknown
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Memory Speed: Unknown
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Unknown
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: NO DIMM
+	Module Manufacturer ID: Unknown
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0012, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: None
+	Locator: P1-DIMMB1
+	Bank Locator: P0_Node0_Channel1_Dimm0
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2666 MT/s
+	Manufacturer: Samsung
+	Serial Number: 36AFBF41
+	Asset Tag: P1-DIMMB1_AssetTag (Date:17/35)
+	Part Number: M393A2K40BB2-CTD    
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: 0000 
+	Module Manufacturer ID: Bank 1, Hex 0xCE
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0013, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: Unknown
+	Set: None
+	Locator: P1-DIMMC1
+	Bank Locator: NO DIMM
+	Type: Unknown
+	Type Detail: Unknown
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Memory Speed: Unknown
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Unknown
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: NO DIMM
+	Module Manufacturer ID: Unknown
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0014, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: None
+	Locator: P1-DIMMD1
+	Bank Locator: P0_Node1_Channel0_Dimm0
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2666 MT/s
+	Manufacturer: Samsung
+	Serial Number: 36AFBF46
+	Asset Tag: P1-DIMMD1_AssetTag (Date:17/35)
+	Part Number: M393A2K40BB2-CTD    
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: 0000 
+	Module Manufacturer ID: Bank 1, Hex 0xCE
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0015, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: Unknown
+	Set: None
+	Locator: P1-DIMMD2
+	Bank Locator: NO DIMM
+	Type: Unknown
+	Type Detail: Unknown
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Memory Speed: Unknown
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Unknown
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: NO DIMM
+	Module Manufacturer ID: Unknown
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0016, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: None
+	Locator: P1-DIMME1
+	Bank Locator: P0_Node1_Channel1_Dimm0
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2666 MT/s
+	Manufacturer: Samsung
+	Serial Number: 36AFBF43
+	Asset Tag: P1-DIMME1_AssetTag (Date:17/35)
+	Part Number: M393A2K40BB2-CTD    
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: 0000 
+	Module Manufacturer ID: Bank 1, Hex 0xCE
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0017, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: Unknown
+	Set: None
+	Locator: P1-DIMMF1
+	Bank Locator: NO DIMM
+	Type: Unknown
+	Type Detail: Unknown
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Memory Speed: Unknown
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Unknown
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: NO DIMM
+	Module Manufacturer ID: Unknown
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0018, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: None
+	Locator: P2-DIMMA1
+	Bank Locator: P1_Node0_Channel0_Dimm0
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2666 MT/s
+	Manufacturer: Samsung
+	Serial Number: 36AFBF49
+	Asset Tag: P2-DIMMA1_AssetTag (Date:17/35)
+	Part Number: M393A2K40BB2-CTD    
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: 0000 
+	Module Manufacturer ID: Bank 1, Hex 0xCE
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0019, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: Unknown
+	Set: None
+	Locator: P2-DIMMA2
+	Bank Locator: NO DIMM
+	Type: Unknown
+	Type Detail: Unknown
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Memory Speed: Unknown
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Unknown
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: NO DIMM
+	Module Manufacturer ID: Unknown
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x001A, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: None
+	Locator: P2-DIMMB1
+	Bank Locator: P1_Node0_Channel1_Dimm0
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2666 MT/s
+	Manufacturer: Samsung
+	Serial Number: 36AFBF45
+	Asset Tag: P2-DIMMB1_AssetTag (Date:17/35)
+	Part Number: M393A2K40BB2-CTD    
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: 0000 
+	Module Manufacturer ID: Bank 1, Hex 0xCE
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x001B, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: Unknown
+	Set: None
+	Locator: P2-DIMMC1
+	Bank Locator: NO DIMM
+	Type: Unknown
+	Type Detail: Unknown
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Memory Speed: Unknown
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Unknown
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: NO DIMM
+	Module Manufacturer ID: Unknown
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x001C, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: None
+	Locator: P2-DIMMD1
+	Bank Locator: P1_Node1_Channel0_Dimm0
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2666 MT/s
+	Manufacturer: Samsung
+	Serial Number: 36AFBF4A
+	Asset Tag: P2-DIMMD1_AssetTag (Date:17/35)
+	Part Number: M393A2K40BB2-CTD    
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: 0000 
+	Module Manufacturer ID: Bank 1, Hex 0xCE
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x001D, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: Unknown
+	Set: None
+	Locator: P2-DIMMD2
+	Bank Locator: NO DIMM
+	Type: Unknown
+	Type Detail: Unknown
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Memory Speed: Unknown
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Unknown
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: NO DIMM
+	Module Manufacturer ID: Unknown
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x001E, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: None
+	Locator: P2-DIMME1
+	Bank Locator: P1_Node1_Channel1_Dimm0
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2666 MT/s
+	Manufacturer: Samsung
+	Serial Number: 36AFBF3A
+	Asset Tag: P2-DIMME1_AssetTag (Date:17/35)
+	Part Number: M393A2K40BB2-CTD    
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: 0000 
+	Module Manufacturer ID: Bank 1, Hex 0xCE
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x001F, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x000F
+	Error Information Handle: Not Provided
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: Unknown
+	Set: None
+	Locator: P2-DIMMF1
+	Bank Locator: NO DIMM
+	Type: Unknown
+	Type Detail: Unknown
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Memory Speed: Unknown
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Unknown
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: NO DIMM
+	Module Manufacturer ID: Unknown
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
